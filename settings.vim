@@ -1,0 +1,12 @@
+set rnu
+set nu
+syntax on
+set showcmd
+set ruler
+set cursorline
+set encoding=utf-8
+set showmatch
+set termguicolors
+set sw=2
+set hlsearch
+set incsearch
