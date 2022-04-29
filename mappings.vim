@@ -1,7 +1,7 @@
 " Telescope
-nmap <Space>f <cmd>Telescope find_files<cr>
-nmap <Space>g <cmd>Telescope live_grep<cr>
-nmap <Space>b <cmd>Telescope buffers<cr>
+nmap <Space>f <cmd>Files<cr>
+nmap <Space>g <cmd>Ag<cr>
+nmap <Space>b <cmd>Buffers<cr>
 
 " NERDTree
 nmap <Space>t <cmd>NERDTreeToggleVCS<cr>

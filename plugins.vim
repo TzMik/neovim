@@ -14,8 +14,8 @@ Plug 'airblade/vim-gitgutter'
 " Side menu
 Plug 'preservim/nerdtree'
 " Finder
-Plug 'nvim-lua/plenary.nvim'
-Plug 'nvim-telescope/telescope.nvim'
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+Plug 'junegunn/fzf.vim'
 " Autocompletion
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'sirver/ultisnips'
