@@ -12,5 +12,9 @@ nmap <C-k> <C-w>k
 nmap <C-h> <C-w>h
 nmap <C-l> <C-w>l
 
+" Jump between tabs
+nmap <Tab> gt
+nmap <S-Tab> gT
+
 " COC
 nmap gd <cmd>call CocAction('jumpDefinition', 'drop')<cr>
