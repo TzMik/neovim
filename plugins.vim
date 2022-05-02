@@ -20,6 +20,8 @@ Plug 'junegunn/fzf.vim'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'sirver/ultisnips'
 Plug 'honza/vim-snippets'
+Plug 'jiangmiao/auto-pairs'
+Plug 'mattn/emmet-vim'
 " Multiple cursors
 Plug 'terryma/vim-multiple-cursors'
 call plug#end()
