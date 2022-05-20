@@ -18,3 +18,6 @@ nmap <S-Tab> gT
 
 " COC
 nmap gd <cmd>call CocAction('jumpDefinition', 'drop')<cr>
+
+" Set filetyp
+nmap <Space>T :set filetype=
